@@ -3,7 +3,6 @@ import numpy as np
 
 """
 Create Your Own Lattice Boltzmann Simulation (With Python)
-Philip Mocz (2020) Princeton Univeristy, @PMocz
 Simulate flow past cylinder
 for an isothermal fluid
 """
