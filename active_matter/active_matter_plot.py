@@ -1,12 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-"""
-Create Your Own Active Matter Simulation (With Python)
-Philip Mocz (2021) Princeton Univeristy, @PMocz
-Simulate Viscek model for flocking birds
-"""
-
 
 
 def main():
